@@ -1,6 +1,6 @@
 # Recent talks & slides
 
-| Title      | [Losing Data in a Safe Way – Advanced Replication Strategies Apache Hadoop Ozone](https://dataworkssummit.com/barcelona-2019/session/losing-data-the-in-a-safe-way-advanced-replication-strategies-in-apache-hadoop-ozone/)
+| Title      | [Hadoop Storage in the Cloud-Native era](https://www.apachecon.com/acna19/s/#/scheduledEvent/1177)
 |------------|-----------------|
 | Event      | ApacheCon North America
 | Year       | 2019, Las Vegas
@@ -17,15 +17,14 @@
 | Title      | [Deconstructing Apache Hadoop: A Dialogue About a Cloud-Native Refactor](https://kccnceu19.sched.com/event/MPYI/deconstructing-apache-hadoop-a-dialogue-about-a-cloud-native-refactor-anu-engineer-marton-elek-cloudera)
 |------------|-----------------|
 | Co-Speaker | Anu Engineer
-| Event      | Datawork Summit
+| Event      | KubeCon + CloudNative Con
 | Year       | 2019, Barcelona
 | Video      | [youtube](https://www.youtube.com/watch?v=-LQDbT_HSfo)
 | Slides     | [PDF](./kubecon2019.pdf)
 
 
-| Title      | [Losing Data in a Safe Way – Advanced Replication Strategies Apache Hadoop Ozone] (https://dataworkssummit.com/barcelona-2019/session/losing-data-the-in-a-safe-way-advanced-replication-strategies-in-apache-hadoop-ozone/)
+| Title      | [Losing Data in a Safe Way – Advanced Replication Strategies Apache Hadoop Ozone](https://dataworkssummit.com/barcelona-2019/session/losing-data-the-in-a-safe-way-advanced-replication-strategies-in-apache-hadoop-ozone/)
 |------------|-----------------|
-| Co-Speaker | Anu Engineer
 | Event      | Datawork Summit
 | Year       | 2019, Barcelona
 | Video      | [youtube](https://www.youtube.com/watch?v=-LQDbT_HSfo)

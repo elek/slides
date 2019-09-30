@@ -1,22 +1,77 @@
-# Talks
+# Recent talks & slides
 
-## 2019
+| Title      | [Losing Data in a Safe Way – Advanced Replication Strategies Apache Hadoop Ozone](https://dataworkssummit.com/barcelona-2019/session/losing-data-the-in-a-safe-way-advanced-replication-strategies-in-apache-hadoop-ozone/)
+|------------|-----------------|
+| Event      | ApacheCon North America
+| Year       | 2019, Las Vegas
+| Slides     | [PDF](./ApacheCon_NA_2019_Hadoop_Storage_in_Cloud-native_environments.pdf)
 
- * Datawork Summit, Barcelona: Losing Data in a Safe Way – Advanced Replication Strategies in Apache Hadoop Ozone 
-  * [link](https://dataworkssummit.com/barcelona-2019/session/losing-data-the-in-a-safe-way-advanced-replication-strategies-in-apache-hadoop-ozone/)
- * DevConf.CZ: Cloud-native data replication strategies
-  * [link](https://devconfcz2019.sched.com/event/Jco8/cloud-native-data-replication-strategies)
 
-## 2018
+| Title      | Hadoop ♥ Kubernetes
+|------------|-----------------|
+| Event      | Hadoop Contributor Meetup (Meetup)
+| Year       | 2019, Palo Alto
+| Slides     | [PDF](./palo_alto_meetup_2019.pdf)
 
- * ApacheCon North America: 
-  * [audio](https://feathercast.apache.org/2018/09/27/from-docker-to-kubernetes-running-apache-hadoop-in-a-cloud-native-way-marton-elek/)
- * Berlin Buzzwords: Docker to kubernetes: running Apache Hadoop in a cloud native way
-  * [video](https://www.youtube.com/watch?v=Fs-zcR-sOJY)
- * Future of Data Budapest, What is Apache Hadoop Ozone 
-    * https://www.meetup.com/futureofdata-budapest/events/256467175/
-    * https://www.meetup.com/futureofdata-budapest/events/248022437/
 
-## 2017
+| Title      | [Deconstructing Apache Hadoop: A Dialogue About a Cloud-Native Refactor](https://kccnceu19.sched.com/event/MPYI/deconstructing-apache-hadoop-a-dialogue-about-a-cloud-native-refactor-anu-engineer-marton-elek-cloudera)
+|------------|-----------------|
+| Co-Speaker | Anu Engineer
+| Event      | Datawork Summit
+| Year       | 2019, Barcelona
+| Video      | [youtube](https://www.youtube.com/watch?v=-LQDbT_HSfo)
+| Slides     | [PDF](./kubecon2019.pdf)
 
-TBD
+
+| Title      | [Losing Data in a Safe Way – Advanced Replication Strategies Apache Hadoop Ozone] (https://dataworkssummit.com/barcelona-2019/session/losing-data-the-in-a-safe-way-advanced-replication-strategies-in-apache-hadoop-ozone/)
+|------------|-----------------|
+| Co-Speaker | Anu Engineer
+| Event      | Datawork Summit
+| Year       | 2019, Barcelona
+| Video      | [youtube](https://www.youtube.com/watch?v=-LQDbT_HSfo)
+| Slides     | [PDF](./dws18sj.pdf)
+  
+  
+| Title      | [Cloud-native data replication strategies](https://devconfcz2019.sched.com/event/Jco8/cloud-native-data-replication-strategies)
+|------------|-----------------|
+| Event      | DevConf.CZ
+| Year       | 2019, Brno
+| Slides     | [PDF](./devconf.pdf)
+
+
+| Title      | From docker to Kubernetes: running Apache Hadoop in a cloud native way
+|------------|-----------------|
+| Event      | ApacheCon North America
+| Year       | 2018, Montreal
+| Type       | Conference
+| Audio      | [audio](https://feathercast.apache.org/2018/09/27/from-docker-to-kubernetes-running-apache-hadoop-in-a-cloud-native-way-marton-elek/)
+
+
+| Title      | [Meet Hadoop 3! (in color & stereo)](https://www.meetup.com/futureofdata-budapest/events/248022437)
+|------------|-----------------|
+| Event      | Future of Data (Meetup)
+| Year       | 2018, Budapest
+| City       | Budapest
+
+
+| Title      | [From docker to kubernetes: running Apache Hadoop in a cloud native way](https://berlinbuzzwords.de/18/session/docker-kubernetes-running-apache-hadoop-cloud-native-way) 
+|------------|-----------------|
+| Event      | Berlin Buzzwords
+| Year       | 2018, Berlin
+| Type       | Conference
+| Video      | [youtube](https://www.youtube.com/watch?v=Fs-zcR-sOJY)
+
+
+| Title      | From Docker to Kubernetes: running Apache Hadoop in a Cloud Native Way
+|------------|-----------------|
+| Event      | Apache Road Show
+| Year       | 2018, Berlin
+| Video      | [youtube](https://www.youtube.com/watch?v=ySDjSLeWzNw)
+| Slides     | [PDF](./apachedockerhadoop.pdf)
+
+
+| Title      | [What is Apache Hadoop Ozone](https://www.meetup.com/futureofdata-budapest/events/256467175/)
+|------------|-----------------|
+| Event      | Future of Data (Meetup)
+| Year       | 2018, Budapest
+

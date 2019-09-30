@@ -1,6 +1,6 @@
 # Recent talks & slides
 
-| Title      | [Hadoop Storage in the Cloud-Native era](https://www.apachecon.com/acna19/s/#/scheduledEvent/1177)
+| Title      | [Developing Hadoop Storage for the Cloud-Native era](https://www.apachecon.com/acna19/s/#/scheduledEvent/1177)
 |------------|-----------------|
 | Event      | ApacheCon North America
 | Year       | 2019, Las Vegas

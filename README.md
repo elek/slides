@@ -88,3 +88,7 @@
 | Event      | Future of Data (Meetup)
 | Year       | 2018, Budapest
 
+| Title      | Microservices vs Hadoop ecosystem
+|------------|-----------------|
+| Year       | 2017
+| Slides     | [PDF](./slides/MicroServicesVsHadoop-Short.pdf)

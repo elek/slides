@@ -1,6 +1,28 @@
 # Recent talks & slides
 
 
+| Title      | [Apache Big-Data meets Cloud-Native and Kubernetes](https://www.apachecon.com/acah2020/tracks/bigdata-2.html)
+|------------|-----------------|
+| Event      | ApacheCon @Home
+| Year       | 2020, Online
+| Slides     | [PDF](./slides/flokkr.pdf)
+
+
+| Title      | [Hadoop Storage Reloaded: the 5 lessons Ozone learned from HDFS](https://www.apachecon.com/acah2020/tracks/bigdata-1.html)
+|------------|-----------------|
+| Event      | ApacheCon @Home
+| Year       | 2020, Online
+| Slides     | [PDF](./slides/ozonetop5.pdf)
+
+
+| Title      | [How to loose data in a safe way. Advanced data replication strategies](https://budapestdata.hu/2020/hu/program/eloadasok/elek-marton-cloudera/)
+|------------|-----------------|
+| Event      | Budapest Data Forum
+| Year       | 2020, Online (Budapest)
+| Slides     | [PDF](./slides/loosed.pdf)
+
+
+
 | Title      | [Patterns and Anti-Patterns of running Apache Big-data projects in Kubernetes](https://aceu19.apachecon.com/session/patterns-and-anti-patterns-running-apache-bigdata-projects-kubernetes)
 |------------|-----------------|
 | Event      | ApacheCon EU

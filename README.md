@@ -130,3 +130,23 @@
 |------------|-----------------|
 | Year       | 2017
 | Slides     | [PDF](./slides/MicroServicesVsHadoop-Short.pdf)
+
+
+| Title      | Power tools in Java
+|------------|-----------------|
+| Year       | 2015
+| Slides     | [slideshare](https://www.slideshare.net/dpcconsulting/power-tools-in-java)
+
+| Title      | Microservices and modularity with Java
+|------------|-----------------|
+| Year       | 2015
+| Slides     | [slideshare](https://www.slideshare.net/dpcconsulting/microservices-and-modularity-with-java)
+
+
+| Title      | OSGi as enterprise integration platform
+|------------|-----------------|
+| Year       | 2014
+| Slides     | [slideshare](https://www.slideshare.net/dpcconsulting/osgi-as-enterprise-integration-platform)
+
+
+

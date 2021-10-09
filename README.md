@@ -1,6 +1,14 @@
 # Recent talks & slides
 
 
+| Title      | [Beyond bus-factor: data-visualizations and algorithms to better understand Apache communities](https://www.apachecon.com/acah2021/tracks/community.html#T1540)
+|------------|-----------------|
+| Event      | ApacheCon @Home
+| Year       | 2021, Online
+| Slides     | [PDF](./slides/community2021.pdf)
+
+
+
 | Title      | [Apache Big-Data meets Cloud-Native and Kubernetes](https://www.apachecon.com/acah2020/tracks/bigdata-2.html)
 |------------|-----------------|
 | Event      | ApacheCon @Home
